@@ -1,126 +1,280 @@
-# Paisabazaar-Banking-Fraud-Analysis.ipynb
-#   Paisabazaar Banking Fraud & Credit Risk Analysis
+Paisabazaar Banking Fraud Analysis
+Project Type
 
-## Project Overview
-This project explores customer financial behavior using Exploratory Data Analysis (EDA) techniques to uncover patterns related to credit score, debt management, repayment behavior, and potential financial risk indicators.
+Exploratory Data Analysis (EDA)
 
-The analysis helps understand how factors like outstanding debt, delayed payments, annual income, EMI burden, and credit utilization impact customer creditworthiness and banking risk assessment.
+Contribution
 
+Individual Project
 
+Project Overview
 
-#  Business Objective
-Financial institutions and fintech companies need to identify risky customer behavior early to reduce fraud exposure and improve credit decision-making.
+This project focuses on analyzing customer financial data to understand the factors that influence credit scores and financial risk. Credit score is one of the most important indicators used by banks and financial institutions to evaluate a customer’s creditworthiness.
 
-This project aims to:
-- Analyze customer financial patterns
-- Identify factors affecting credit scores
-- Detect high-risk financial behavior
-- Support smarter banking and lending decisions
+The project uses Exploratory Data Analysis (EDA) techniques to identify patterns, trends, and relationships between financial variables such as income, debt, loans, payment behavior, and credit utilization ratio.
 
+The dataset contains customer financial information from Paisabazaar, a financial services platform that provides services like loans, credit cards, and insurance comparison.
 
+Objectives
+Analyze customer financial behavior
+Identify factors affecting credit scores
+Detect high-risk customers
+Understand loan and debt patterns
+Support better financial decision-making
+Reduce financial risk and loan defaults
+Business Objective
 
-#  Dataset Information
-The dataset contains customer financial details including:
+The main business objective of this project is to help financial companies understand customer credit behavior and improve credit risk management.
 
-| Feature | Description |
+Key Goals:
+Identify risky customers early
+Improve loan approval decisions
+Reduce fraud and default risk
+Build smarter credit scoring strategies
+Improve customer segmentation
+Dataset Information
 
-| Age | Customer age |
-| Annual_Income | Annual income of customer |
-| Outstanding_Debt | Pending debt amount |
-| Monthly_Balance | Remaining monthly balance |
-| Credit_Utilization_Ratio | Credit usage percentage |
-| Num_of_Loan | Total number of loans |
-| Num_of_Delayed_Payment | Delayed payment count |
-| Credit_Score | Customer credit category |
+The dataset contains customer financial details such as:
 
+Age
+Annual Income
+Monthly Salary
+Number of Bank Accounts
+Number of Credit Cards
+Outstanding Debt
+EMI per Month
+Number of Loans
+Payment Behaviour
+Credit Utilization Ratio
+Credit History
+Credit Score Category
+Technologies & Libraries Used
+Programming Language
+Python
+Libraries
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Platform
+Google Colab / Jupyter Notebook
+Project Workflow
+Data Loading
+Data Cleaning
+Data Wrangling
+Exploratory Data Analysis (EDA)
+KPI Calculation
+Data Visualization
+Business Insights
+Conclusion
+Key Analysis Performed
+Univariate Analysis
+Credit Score Distribution
+Age Distribution
+Income Distribution
+Bivariate Analysis
+Credit Score vs Income
+Credit Score vs Loans
+Credit Score vs Outstanding Debt
+Credit Score vs EMI
+Multivariate Analysis
+Pair Plot
+Correlation Heatmap
+Scatter Plot Analysis
+Key Insights
+Customers with higher income generally have better credit scores.
+High outstanding debt is strongly associated with poor credit scores.
+Customers with multiple loans and delayed payments are more risky.
+High EMI burden and high credit utilization negatively affect creditworthiness.
+Most customers belong to the Standard credit score category.
+Business Impact
 
-#  Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Google Colab
-- GitHub
+This project helps financial institutions:
 
+Improve risk management
+Detect risky customers
+Reduce financial losses
+Improve loan approval systems
+Enhance fraud detection
+Build better customer segmentation strategies
+Visualizations Included
+Count Plot
+Histogram
+Box Plot
+Violin Plot
+Pie Chart
+Scatter Plot
+Heatmap
+Pair Plot
+Conclusion
 
-#  Project Workflow
+This project demonstrates how Exploratory Data Analysis (EDA) can be used to understand customer financial behavior and identify factors affecting credit scores.
 
-## 1️⃣ Data Understanding
-- Explored dataset structure
-- Checked data types and feature distributions
-- Identified business-relevant variables
+The analysis shows that debt, EMI burden, delayed payments, and credit utilization ratio play a major role in determining customer creditworthiness.
 
-## 2️⃣ Data Cleaning
-- Handled missing values
-- Removed inconsistencies
-- Corrected data formatting issues
+The findings can help financial organizations make smarter, faster, and safer financial decisions.
 
-## 3️⃣ Exploratory Data Analysis
-Performed:
-- Univariate Analysis
-- Bivariate Analysis
-- Multivariate Analysis
+GitHub Repository
 
+Paisabazaar Banking Fraud Analysis Repository
 
-# Key Visualizations
-✔️ Credit Score Distribution  
-✔️ Age Distribution  
-✔️ Debt vs Monthly Balance  
-✔️ Credit Utilization vs EMI  
-✔️ Delayed Payments Analysis  
-✔️ Income vs Credit Score  
-✔️ Loans vs Outstanding Debt
+Author
 
+Shruti Kumari
 
-#  Major Insights
+ ATTRACTIVE AUR CREATIVE
+💳 Paisabazaar Banking Fraud Analysis
+Exploratory Data Analysis (EDA) on Customer Credit Behavior & Financial Risk
+<p align="center"> <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/EDA-Visualization-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Project-Finance-success?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"> </p>
+📌 Project Overview
 
-## Customers with poor credit scores:
-- Have higher outstanding debt
-- Show more delayed payments
-- Maintain higher credit utilization ratios
-- Often carry larger EMI burdens
+In today’s digital financial world, understanding customer credit behavior is extremely important for banks and financial institutions.
 
-### Customers with good credit scores:
-- Maintain healthier monthly balances
-- Have lower debt levels
-- Show better repayment discipline
+This project focuses on analyzing customer financial data from Paisabazaar to understand:
 
+✔️ What factors affect credit scores
+✔️ Which customers are financially risky
+✔️ How debt and payment behavior impact creditworthiness
+✔️ How data analytics can help reduce fraud and loan defaults
 
+Using Exploratory Data Analysis (EDA) and powerful visualizations, this project transforms raw financial data into meaningful business insights.
 
-#  Business Impact
-The analysis can help:
-- Banks improve risk profiling
-- Detect financially stressed customers
-- Support fraud prevention strategies
-- Improve loan approval systems
-- Enhance customer credit monitoring
+🎯 Business Objective
 
+The primary objective of this project is to help financial institutions:
 
-#  Challenges Faced
-- Handling inconsistent financial records
-- Choosing suitable visualizations
-- Understanding multivariable financial relationships
-- Interpreting overlapping customer behavior patterns
+🔍 Identify high-risk customers
+💳 Improve credit approval decisions
+📉 Reduce loan default risk
+🛡️ Detect potential fraud patterns
+📊 Understand customer financial behavior
+🤖 Support AI-driven credit scoring systems
+📂 Dataset Information
 
----
+The dataset contains customer financial information such as:
 
-#  Conclusion
-This project successfully identified key financial indicators influencing customer credit behavior and banking risk patterns.
+Feature	Description
+Age	Customer age
+Annual Income	Yearly income
+Monthly Salary	Monthly in-hand salary
+Number of Loans	Loans taken by customer
+Credit Cards	Number of credit cards
+Outstanding Debt	Remaining debt amount
+EMI per Month	Monthly EMI burden
+Credit Utilization Ratio	Credit usage percentage
+Payment Behaviour	Customer payment habits
+Credit Score	Good / Standard / Poor
+⚙️ Technologies Used
+👨‍💻 Programming Language
+Python 🐍
+📚 Libraries
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+💻 Platform
+Google Colab
+Jupyter Notebook
+🔄 Project Workflow
+Data Collection
+        ↓
+Data Cleaning
+        ↓
+Data Wrangling
+        ↓
+Exploratory Data Analysis (EDA)
+        ↓
+Visualization & Storytelling
+        ↓
+Business Insights
+        ↓
+Conclusion
+📊 Exploratory Data Analysis (EDA)
+✅ Univariate Analysis
+Credit Score Distribution
+Age Distribution
+Annual Income Distribution
+✅ Bivariate Analysis
+Credit Score vs Annual Income
+Credit Score vs Number of Loans
+Credit Score vs Outstanding Debt
+Credit Score vs EMI
+✅ Multivariate Analysis
+Correlation Heatmap
+Pair Plot
+Scatter Plot Analysis
+📈 Key Insights
+💡 Major Findings
+✔️ Customers with higher income usually have better credit scores.
+✔️ High outstanding debt is strongly linked to poor credit scores.
+✔️ Customers with multiple loans and delayed payments are more financially risky.
+✔️ High credit utilization ratio negatively affects customer creditworthiness.
+✔️ Most customers belong to the “Standard” credit score category.
+🚨 Risk & Fraud Indicators
 
-Outstanding debt, delayed payments, and credit utilization emerged as strong indicators of poor financial health and lower credit scores.
+The analysis identified several high-risk patterns:
 
+Excessive EMI burden
+Frequent delayed payments
+High debt-to-income ratio
+Multiple loan accounts
+High credit utilization
+Frequent credit inquiries
 
-#  Future Improvements
-- Machine Learning prediction model
-- Fraud detection system
-- Interactive Power BI dashboard
-- Customer segmentation analysis
-- Predictive credit risk scoring
+These indicators can help companies detect risky customers early.
 
----
+📌 Business Recommendations
 
-# 🔗 GitHub Repository
-(https://github.com/Shrutikumari-ai-lab/Paisabazaar-Banking-Fraud-Analysis.ipynb)
+✅ Implement smarter credit scoring systems
+✅ Monitor customers with high debt levels
+✅ Use AI/ML models for fraud prediction
+✅ Provide personalized financial products
+✅ Improve risk management strategies
+✅ Reduce loan approval risk using data-driven decisions
+
+📉 Business Impact
+
+This project can help financial organizations:
+
+✔️ Reduce loan defaults
+✔️ Improve fraud detection
+✔️ Increase profitability
+✔️ Improve customer segmentation
+✔️ Make faster & smarter financial decisions
+
+📷 Visualizations Included
+
+📊 Count Plot
+📊 Histogram
+📊 Box Plot
+📊 Violin Plot
+📊 Scatter Plot
+📊 Pair Plot
+📊 Heatmap
+📊 Pie Chart
+
+🏆 Conclusion
+
+This project demonstrates how Data Analytics + EDA can help financial companies understand customer behavior, identify risky financial patterns, and improve decision-making.
+
+“In modern finance, data is more valuable than money — because data predicts risk before loss happens.”
+
+The project successfully transformed raw financial data into actionable business intelligence using Python and visualization techniques.
+
+🔗 GitHub Repository
+👉 Repository Link:
+
+Paisabazaar Banking Fraud Analysis Repository
+
+👩‍💻 Author
+Shruti Kumari
+
+📌 Individual EDA Project
+📌 Finance & Credit Risk Analysis
+📌 Python | Data Analytics | Visualization
+
+⭐ If you like this project, give it a Star on GitHub!
 
 
