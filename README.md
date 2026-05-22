@@ -265,14 +265,18 @@ The project successfully transformed raw financial data into actionable business
 
 🔗 GitHub Repository
 👉 Repository Link:
+Paisabazaar-Banking-Fraud-Analysis.ipynb
 
-Paisabazaar Banking Fraud Analysis Repository
+
+
 
 👩‍💻 Author
 Shruti Kumari
 
 📌 Individual EDA Project
+
 📌 Finance & Credit Risk Analysis
+
 📌 Python | Data Analytics | Visualization
 
 ⭐ If you like this project, give it a Star on GitHub!
