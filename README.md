@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="images.png" alt="AlmaBetter Logo" width="220">
+</p>
+
+# Numerical Programming in Python Capstone Project
+
+## AlmaBetter | Data Analytics & Business Intelligence
+
+
+
 Paisabazaar Banking Fraud Analysis
 Project Type
 
